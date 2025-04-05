@@ -1,0 +1,11 @@
+python-telegram-bot==20.3
+openai
+whisper
+Pillow
+opencv-python
+faiss-cpu
+torch
+torchaudio
+moviepy
+transformers
+scikit-learn
